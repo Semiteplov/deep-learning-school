@@ -7,3 +7,9 @@ torch
 torchvision
 opencv-python
 unzip
+wldhx.yadisk-direct
+pillow
+scikit-image
+torchmetrics
+tqdm
+segmentation_models_pytorch
